@@ -1,0 +1,3 @@
+ python QRCodeViewer.py
+
+pause
